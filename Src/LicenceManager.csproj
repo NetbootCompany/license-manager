@@ -10,6 +10,9 @@
     <Copyright>Thomas ILLIET, NetbootCompany</Copyright>
     <PackageTags>utility library license dotnet</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/NetbootCompany</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/NetbootCompany/licence-manager</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <TargetFrameworks>net6.0</TargetFrameworks>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
