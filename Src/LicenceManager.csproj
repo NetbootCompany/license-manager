@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Authors>Thomas ILLIET</Authors>
     <Company>NetbootCompany</Company>
-    <PackageId>LicenceManager</PackageId>
+    <PackageId>Netboot.LicenceManager</PackageId>
     <PackageDescription>Easy-to-use licensing library for .NET Core products.</PackageDescription>
     <IsPackable>true</IsPackable>
     <RepositoryType>git</RepositoryType>
