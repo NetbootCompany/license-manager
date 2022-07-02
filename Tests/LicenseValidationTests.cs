@@ -1,7 +1,7 @@
-﻿using LicenceManager.Validation;
+﻿using LicenseManager.Validation;
 using NUnit.Framework;
 
-namespace LicenceManager.Test
+namespace LicenseManager.Test
 {
     [TestFixture]
     public class LicenseValidationTests

@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography;
 
-namespace LicenceManager.Security.Cryptography;
+namespace LicenseManager.Security.Cryptography;
 
 /// <summary>
 /// Represents a generator for signature keys of <see cref="License"/>.

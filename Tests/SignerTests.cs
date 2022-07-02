@@ -1,8 +1,8 @@
-﻿using LicenceManager.Security.Cryptography;
+﻿using LicenseManager.Security.Cryptography;
 using NUnit.Framework;
 using System.Text;
 
-namespace LicenceManager.Test
+namespace LicenseManager.Test
 {
     public class SignerTests
     {

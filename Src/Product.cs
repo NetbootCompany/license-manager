@@ -1,6 +1,6 @@
 ﻿using System.Xml.Linq;
 
-namespace LicenceManager;
+namespace LicenseManager;
 
 /// <summary>
 /// The product of a <see cref="License"/>.

@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Xml.Linq;
 
-namespace LicenceManager.Test
+namespace LicenseManager.Test
 {
     [TestFixture]
     public class LicenseSignatureTests

@@ -1,4 +1,4 @@
-﻿namespace LicenceManager;
+﻿namespace LicenseManager;
 
 /// <summary>
 /// Defines the type of a <see cref="License"/>

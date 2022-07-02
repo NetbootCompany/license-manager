@@ -1,4 +1,4 @@
-﻿namespace LicenceManager;
+﻿namespace LicenseManager;
 
 /// <summary>
 /// Implementation of the <see cref="ILicenseBuilder"/>, a fluent api to create new licenses.

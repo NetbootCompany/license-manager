@@ -1,6 +1,6 @@
 ﻿using System.Xml.Linq;
 
-namespace LicenceManager;
+namespace LicenseManager;
 
 /// <summary>
 /// The customer of a <see cref="License"/>.

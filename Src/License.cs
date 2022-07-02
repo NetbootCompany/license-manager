@@ -1,10 +1,10 @@
-﻿using LicenceManager.Security.Cryptography;
+﻿using LicenseManager.Security.Cryptography;
 using System.Globalization;
 using System.Text;
 using System.Xml;
 using System.Xml.Linq;
 
-namespace LicenceManager;
+namespace LicenseManager;
 
 /// <summary>
 /// A software license

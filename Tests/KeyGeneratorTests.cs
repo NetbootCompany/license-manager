@@ -1,7 +1,7 @@
-using LicenceManager.Security.Cryptography;
+using LicenseManager.Security.Cryptography;
 using NUnit.Framework;
 
-namespace LicenceManager.Test
+namespace LicenseManager.Test
 {
     [TestFixture]
     public class KeyGeneratorTests

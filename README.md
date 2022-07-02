@@ -1,1 +1,1 @@
-# licence-manager-sdk-aspnet-core
+# License-manager-sdk-aspnet-core

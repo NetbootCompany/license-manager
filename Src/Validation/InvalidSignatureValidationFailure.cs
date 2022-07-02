@@ -1,4 +1,4 @@
-﻿namespace LicenceManager.Validation;
+﻿namespace LicenseManager.Validation;
 
 /// <summary>
 /// Represents a failure when the <see cref="License.Signature"/> is invalid.

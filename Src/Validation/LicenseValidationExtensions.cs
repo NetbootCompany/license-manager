@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace LicenceManager.Validation;
+namespace LicenseManager.Validation;
 
 /// <summary>
 /// Extension methods for <see cref="License"/> validation.

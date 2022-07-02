@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Authors>Thomas ILLIET</Authors>
     <Company>NetbootCompany</Company>
-    <PackageId>Netboot.LicenceManager</PackageId>
+    <PackageId>Netboot.LicenseManager</PackageId>
     <PackageDescription>Easy-to-use licensing library for .NET Core products.</PackageDescription>
     <IsPackable>true</IsPackable>
     <RepositoryType>git</RepositoryType>
@@ -11,7 +11,7 @@
     <PackageTags>utility library license dotnet</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/NetbootCompany</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/NetbootCompany/licence-manager</RepositoryUrl>
+    <RepositoryUrl>https://github.com/NetbootCompany/License-manager</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <TargetFrameworks>net6.0</TargetFrameworks>
     <Nullable>enable</Nullable>

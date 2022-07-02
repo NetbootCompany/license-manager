@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography;
 
-namespace LicenceManager.Security.Cryptography;
+namespace LicenseManager.Security.Cryptography;
 
 /// <summary>
 /// Represents a private/public encryption key pair.

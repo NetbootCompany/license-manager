@@ -1,6 +1,6 @@
 ﻿using System.Xml.Linq;
 
-namespace LicenceManager;
+namespace LicenseManager;
 
 /// <summary>
 /// Represents a dictionary of license attributes.

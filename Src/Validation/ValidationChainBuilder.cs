@@ -1,4 +1,4 @@
-﻿namespace LicenceManager.Validation;
+﻿namespace LicenseManager.Validation;
 
 internal class ValidationChainBuilder : IStartValidationChain, IValidationChain
 {

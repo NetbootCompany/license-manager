@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace LicenceManager;
+namespace LicenseManager;
 
 /// <summary>
 /// Defines assembly build date information for an assembly manifest.
