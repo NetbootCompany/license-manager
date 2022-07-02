@@ -10,8 +10,6 @@ on:
   pull_request:
   release:
     types: [published]
-  schedule:
-    - cron: '0 3 * * *'
 
 env:
   DOTNET_VERSION: '6.0.x'
@@ -90,4 +88,3 @@ jobs:
       run: dotnet nuget push ./artifacts/**/*.nupkg --source ${{ env.REPOSITORY_URL }} --api-key ${{ secrets.GITHUB_TOKEN }} --skip-duplicate
     - name: Publish packages to nuget.org
       run: dotnet nuget push ./artifacts/**/*.nupkg --source nuget.org --api-key ${{secrets.PACKAGE_NUGET}} --skip-duplicate
-    
